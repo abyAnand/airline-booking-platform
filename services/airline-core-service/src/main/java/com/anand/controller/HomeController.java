@@ -1,4 +1,4 @@
-package com.anand;
+package com.anand.controller;
 
 import com.anand.payload.response.ApiResponse;
 import org.springframework.web.bind.annotation.GetMapping;
