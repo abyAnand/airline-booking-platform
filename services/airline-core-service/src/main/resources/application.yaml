@@ -1,12 +1,12 @@
 server:
-  port: 5001
+  port: 5002
 
 spring:
   application:
-    name: user-service
+    name: airline-core-service
 
   datasource:
-    url: jdbc:mysql://localhost:3306/airline_user_db
+    url: jdbc:mysql://localhost:3306/airline_db
     username: root
     password: root
   jpa:
